@@ -12,6 +12,9 @@
   "dependencies": {
     "chokidar": "^3.5.3",
     "commander": "^11.0.0",
+    "fs": "^0.0.1-security",
+    "lodash": "^4.17.21",
+    "path": "^0.12.7",
     "simple-git": "^3.19.1"
   }
 }
