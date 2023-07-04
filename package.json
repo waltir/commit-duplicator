@@ -1,0 +1,17 @@
+{
+  "name": "commit-duplicator",
+  "version": "1.0.0",
+  "description": "Allows duplicating of just commit messages from one repo to another so no private source code is shared.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "waltir",
+  "license": "ISC",
+  "dependencies": {
+    "chokidar": "^3.5.3",
+    "commander": "^11.0.0",
+    "simple-git": "^3.19.1"
+  }
+}
